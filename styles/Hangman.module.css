@@ -1,0 +1,31 @@
+.Hangman {
+  width: 80%;
+  margin-top: 50px;
+  display: flex;
+}
+.heading{
+  display: flex;
+  justify-content: space-between;
+}
+.btn{
+  font-size: 15px;
+   margin: 5px; 
+   padding: 5px;
+  
+}
+.img{
+  color: transparent;
+    width: 472px;
+    height: 434px;
+}
+
+.space{
+  font-size: 50px;
+}
+.textbody{
+  margin-top: 67px;
+}
+.letter{
+  margin-left: -6px;
+  margin-top: 16px;
+}

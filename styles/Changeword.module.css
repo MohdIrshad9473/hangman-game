@@ -1,0 +1,15 @@
+.progress{
+    display: flex;
+    justify-content: center;
+    margin-top: 61px;
+}
+.progressElement{
+    width: 52%;
+}
+.details{
+    display: flex;
+    justify-content: space-around;
+}
+.homeheading{
+    
+}
